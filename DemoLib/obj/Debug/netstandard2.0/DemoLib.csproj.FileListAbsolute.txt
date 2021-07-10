@@ -1,0 +1,9 @@
+C:\RnD-2021\DemoLib\DemoLib\bin\Debug\netstandard2.0\DemoLib.deps.json
+C:\RnD-2021\DemoLib\DemoLib\bin\Debug\netstandard2.0\DemoLib.dll
+C:\RnD-2021\DemoLib\DemoLib\bin\Debug\netstandard2.0\DemoLib.pdb
+C:\RnD-2021\DemoLib\DemoLib\obj\Debug\netstandard2.0\DemoLib.csprojAssemblyReference.cache
+C:\RnD-2021\DemoLib\DemoLib\obj\Debug\netstandard2.0\DemoLib.AssemblyInfoInputs.cache
+C:\RnD-2021\DemoLib\DemoLib\obj\Debug\netstandard2.0\DemoLib.AssemblyInfo.cs
+C:\RnD-2021\DemoLib\DemoLib\obj\Debug\netstandard2.0\DemoLib.csproj.CoreCompileInputs.cache
+C:\RnD-2021\DemoLib\DemoLib\obj\Debug\netstandard2.0\DemoLib.dll
+C:\RnD-2021\DemoLib\DemoLib\obj\Debug\netstandard2.0\DemoLib.pdb

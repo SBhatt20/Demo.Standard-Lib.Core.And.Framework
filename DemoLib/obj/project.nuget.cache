@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mptu7z9UArY0m4/8Yiu3p3vZ8m0wFPayphPqJLN9EBW+PDSmAIUbPP3sLUxiN/elqlw2Kip1spCvjX2FyGduog==",
+  "success": true,
+  "projectFilePath": "C:\\RnD-2021\\DemoLib\\DemoLib\\DemoLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhatts\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bhatts\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

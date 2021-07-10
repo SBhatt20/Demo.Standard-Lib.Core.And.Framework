@@ -1,0 +1,12 @@
+C:\RnD-2021\DemoLib\DemoLib.Core\bin\Debug\netstandard2.0\DemoLib.dll
+C:\RnD-2021\DemoLib\DemoLib.Core\obj\Debug\netstandard2.0\DemoLib.Core.csprojAssemblyReference.cache
+C:\RnD-2021\DemoLib\DemoLib.Core\obj\Debug\netstandard2.0\DemoLib.Core.AssemblyInfoInputs.cache
+C:\RnD-2021\DemoLib\DemoLib.Core\obj\Debug\netstandard2.0\DemoLib.Core.AssemblyInfo.cs
+C:\RnD-2021\DemoLib\DemoLib.Core\bin\Debug\netstandard2.0\DemoLib.Core.deps.json
+C:\RnD-2021\DemoLib\DemoLib.Core\bin\Debug\netstandard2.0\DemoLib.Core.dll
+C:\RnD-2021\DemoLib\DemoLib.Core\bin\Debug\netstandard2.0\DemoLib.Core.pdb
+C:\RnD-2021\DemoLib\DemoLib.Core\bin\Debug\netstandard2.0\DemoLib.pdb
+C:\RnD-2021\DemoLib\DemoLib.Core\obj\Debug\netstandard2.0\DemoLib.Core.csproj.CoreCompileInputs.cache
+C:\RnD-2021\DemoLib\DemoLib.Core\obj\Debug\netstandard2.0\DemoLib.Core.csproj.CopyComplete
+C:\RnD-2021\DemoLib\DemoLib.Core\obj\Debug\netstandard2.0\DemoLib.Core.dll
+C:\RnD-2021\DemoLib\DemoLib.Core\obj\Debug\netstandard2.0\DemoLib.Core.pdb
