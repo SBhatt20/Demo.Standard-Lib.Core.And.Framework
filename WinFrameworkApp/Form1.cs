@@ -20,7 +20,7 @@ namespace WinFrameworkApp
     private void button1_Click(object sender, EventArgs e)
     {
       AppUnityContainer appUnityContainer = new AppUnityContainer();
-      appUnityContainer.Register();
+      appUnityContainer.RegisterStorageManager();
        Helper myHelper = new Helper(appUnityContainer.ResolveStorageManager());
 
       textBox1.Text = myHelper.MySettingData();
