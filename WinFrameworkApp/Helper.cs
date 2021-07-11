@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace WinFrameworkApp
 {
-  public class Helper 
+  public class Helper : IHelper
   {
     string Summary;
     public Helper(IStorageManager storageManager)
@@ -19,5 +19,10 @@ namespace WinFrameworkApp
     {
       return this.Summary;
     }
+  }
+
+  public interface IHelper
+  {
+    string MySettingData();
   }
 }

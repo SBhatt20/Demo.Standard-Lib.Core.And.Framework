@@ -55,6 +55,7 @@ namespace DemoApp
   {
     public static IServiceCollection RegisterLib(this IServiceCollection services)
     {
+      // Register StorageManager and Settings in ServiceCollection
       services.RegisterDemoLib();
       return services;
     }

@@ -22,5 +22,16 @@ namespace WinFrameworkApp
       return container.Resolve<IStorageManager>();
     }
 
+
+    public void RegisterHelper()
+    {
+      this.container.RegisterType<IHelper,Helper>();
+    }
+
+    public IHelper ResolveHelper()
+    {
+      return container.Resolve<IHelper>();
+    }
+
   }
 }
